@@ -1,0 +1,8 @@
+{
+  "id": "fdef_search_and_order",
+  "destination_id": "google_dotmote",
+  "environment_variables": {"PL_API_KEY": "my_planet_api_key"},
+  "function_name": "fn_search_order_meadows",
+  "memory": "default",
+  "runtime": "default"
+}

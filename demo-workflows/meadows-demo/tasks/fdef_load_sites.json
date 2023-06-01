@@ -1,0 +1,8 @@
+{
+  "id": "fdef_load_sites",
+  "destination_id": "google_dotmote",
+  "environment_variables": {},
+  "function_name": "fn_load_sites_meadows",
+  "memory": "default",
+  "runtime": "default"
+}

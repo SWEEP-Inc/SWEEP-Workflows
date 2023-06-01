@@ -1,0 +1,14 @@
+{
+  "id": "fdef_end_wf",
+  "destination_id": "google_dotmote",
+  "environment_variables": {
+    "ACCESS_KEY": "my_aws_access_key",
+    "FILEPATH": "/tmp/",
+    "S3_BUCKET_NAME" : "my_s3_bucket",
+    "SECRET_KEY": "my_aws_secret_access_key"
+  },
+  "function_name": "fn_end_wf_meadows",
+  "memory": "default",
+  "runtime": "default"
+}
+
